@@ -4,7 +4,7 @@ from http.server import SimpleHTTPRequestHandler
 
 
 HOST_NAME = 'localhost'
-PORT_NUMBER = 8001
+PORT_NUMBER = 8002
 
 if __name__ == '__main__':
     httpd = HTTPServer((HOST_NAME, PORT_NUMBER), SimpleHTTPRequestHandler)
@@ -14,4 +14,4 @@ if __name__ == '__main__':
     except KeyboardInterrupt:
         pass
     httpd.server_close()
-    print(time.asctime(), 'Server DOWN - %s:%s' % (HOST_NAME, PORT_NUMBER))
+    print(time.asctime(), 'Server DOWN - %s:%s' % (HOST_NAME, PORT_NUMBER)) 
