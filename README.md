@@ -3,7 +3,8 @@
 ### Team members:
 - Ruochi Zhang
 - Haomin Xie
-- Yunshu Liang
+- Yunshu Liang  [GitHub](https://github.com/liangz0089)
+- Qi Lu [GitHub](https://github.com/FawneLu)
 
 ### The problem chosen:
 Stock prediction system
