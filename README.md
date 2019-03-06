@@ -5,6 +5,7 @@
 - Haomin Xie
 - Yunshu Liang  [GitHub](https://github.com/liangz0089)
 - Qi Lu [GitHub](https://github.com/FawneLu)
+- Zhehao Guo [GitHub](https://github.com/PaulGuo5)
 
 ### The problem chosen:
 Stock prediction system
